@@ -1,9 +1,3 @@
----
-runme:
-  id: 01HGMPPVSHJ0NFDHJAMXHD62Y5
-  version: v2.0
----
-
 ### how to use
 
 在`initializerJson.json`中编写RESTAPI请求方法
